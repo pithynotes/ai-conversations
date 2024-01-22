@@ -1,8 +1,8 @@
-# AI-Girlfriend
-AI-Girlfriend is a simple interactive AI application that uses LangChain and OpenAI technologies to provide conversational experiences.
+# AI-Conversations
+AI-Conversataions is a simple interactive AI application that uses LangChain and OpenAI technologies to provide conversational experiences.
 
-- Interactive Conversations from Girl Friend
-- Voice-based responses from Girl Friend
+- Interactive Conversations from AI Friend
+- Voice-based responses from AI Friend
 
 
 # Run
