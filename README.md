@@ -6,7 +6,7 @@ AI-Conversataions is a simple interactive AI application that uses LangChain and
 
 
 # Run
-Run the AI-Girlfriend application:
+Run the AI-Friend application:
 ```
 python ai-gf.py
 ```
