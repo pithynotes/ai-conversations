@@ -27,14 +27,14 @@ pip install -r requirements.txt
 OPEN_API=<your_openapi_key>
 ELEVEN_LABS=<your_eleven_labs_key>
 ```
-- Run the AI-Girlfriend application:
+- Run the AI-Friend application:
 ```
 python ai-gf.py
 ```
 - Interact with the AI-Girlfriend through the command-line interface. or Use the sample index.html.(index.html is a very basic code)
 
 # Tech
-AI-Girlfriend utilizes the following technologies and libraries:
+AI-Friend utilizes the following technologies and libraries:
 - LangChain
 - OpenAI
 - Eleven Labs
