@@ -31,7 +31,7 @@ ELEVEN_LABS=<your_eleven_labs_key>
 ```
 python ai-gf.py
 ```
-- Interact with the AI-Girlfriend through the command-line interface. or Use the sample index.html.(index.html is a very basic code)
+- Interact with the AI-Friend through the command-line interface. or Use the sample index.html.(index.html is a very basic code)
 
 # Tech
 AI-Friend utilizes the following technologies and libraries:
